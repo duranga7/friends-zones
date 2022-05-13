@@ -1,0 +1,15 @@
+{
+
+    "name": "friends-zones",
+    
+    "version": "1.0.0",
+    
+    "description": "Can query bot for time zones friends are online frequently",
+    
+    "main": "bot.js",
+    
+    "author": "duranga7",
+    
+    "dependencies": {}
+    
+}
